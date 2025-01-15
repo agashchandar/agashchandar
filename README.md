@@ -1,11 +1,5 @@
 ### Hi there, I'm Agash - aka [agashchandar][website] 👋
 
-## I'm a Developer, Data Science and Machine Learning Enthusiast!
-
-- ☸️ I’m currently learning the world of DevOps
-- 🦋 I’m looking to upskill myself
-- ⚡ Fun fact: I love to play foodball, badminton and love cooking.
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
